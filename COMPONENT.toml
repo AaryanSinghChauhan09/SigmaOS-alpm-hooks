@@ -3,7 +3,7 @@ name = "SigmaOS-alpm-hooks"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "alpm-hooks component"
+description = "GitHub description is a placeholder; component scope remains unclassified."
 upstream = []
 
 [contract]
